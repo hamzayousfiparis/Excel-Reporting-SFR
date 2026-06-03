@@ -1,4 +1,4 @@
-# Projet 5 : Dashboard de Reporting Commercial (Excel)
+# Dashboard de Reporting Commercial "Opérateur télécom SFR" (Excel)
 
 ## Contexte Métier
 Création d'un tableau de bord complet pour un opérateur télécom (SFR) afin de suivre les indicateurs de performance clés liés aux clients, au réseau et aux ventes. Ce projet démontre ma maîtrise d'Excel comme outil puissant de Business Intelligence.
@@ -20,4 +20,5 @@ Création d'un tableau de bord complet pour un opérateur télécom (SFR) afin d
 *Par Hamza Yousfi, Data Analyst (2026)*
 
 ## Aperçu du Résultat
-[AJOUTER IMAGE ICI : Capture d'écran du résultat du projet]
+<img width="1560" height="373" alt="image" src="https://github.com/user-attachments/assets/e4d9d4a6-110b-4b6c-9b79-026dda11fb0c" />
+
